@@ -1,0 +1,54 @@
+{
+  "Hindi": [
+    {"text": "मज़ा ही आ गया", "expected": 1, "note": "Highly positive informal"},
+    {"text": "दिमाग ख़राब कर दिया", "expected": 0, "note": "Strong negative idiom"}
+  ],
+  "Tamil": [
+    {"text": "சாதாரணமாக தான் இருக்கு", "expected": 1, "note": "Neutral-positive tone"},
+    {"text": "சும்மா கேலி பண்ணுறேன்", "expected": 1, "note": "Sarcasm/humor"}
+  ],
+  "Telugu": [
+    {"text": "చాలా సూపర్ గా ఉంది", "expected": 1},
+    {"text": "అయ్యో రా, చెత్తగా ఉంది", "expected": 0}
+  ],
+  "Kannada": [
+    {"text": "ಒಳ್ಳೆಯಾಗಿದೆ ಗುರು", "expected": 1},
+    {"text": "ಪೂರ್ಣವಾಗಿಯೂ ಬೇಕಾರ್", "expected": 0}
+  ],
+  "Malayalam": [
+    {"text": "ഒന്നിനും കുറവില്ല", "expected": 1},
+    {"text": "പണി പാളി", "expected": 0}
+  ],
+  "Bengali": [
+    {"text": "দারুণ হয়েছে", "expected": 1},
+    {"text": "একেবারে বাজে", "expected": 0}
+  ],
+  "Gujarati": [
+    {"text": "મસ્ત છે ભાઈ", "expected": 1, "note": "Colloquial praise"},
+    {"text": "બકવાસ છે યાર", "expected": 0}
+  ],
+  "Marathi": [
+    {"text": "जबरा आहे", "expected": 1},
+    {"text": "पूर्ण फालतू आहे", "expected": 0}
+  ],
+  "Punjabi": [
+    {"text": "ਵਧੀਆ ਯਾਰ", "expected": 1},
+    {"text": "ਬਿਲਕੁਲ ਹੀ ਚੰਗਾ ਨਹੀਂ", "expected": 0}
+  ],
+  "Odia": [
+    {"text": "ବହୁତ ଭଲ ଲାଗିଲା", "expected": 1},
+    {"text": "ଏହା ତ ବହୁତ ଖରାପ", "expected": 0}
+  ],
+  "Assamese": [
+    {"text": "একেবাৰে ধন্যাত", "expected": 1},
+    {"text": "একেবাৰে নাসোচিল", "expected": 0}
+  ],
+  "Urdu": [
+    {"text": "کمال کر دیا", "expected": 1},
+    {"text": "بالکل بیکار", "expected": 0}
+  ],
+  "English": [
+    {"text": "Not bad at all", "expected": 1, "note": "Positive but subtle"},
+    {"text": "This is disappointing", "expected": 0}
+  ]
+}
