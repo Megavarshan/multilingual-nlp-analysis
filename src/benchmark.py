@@ -14,7 +14,7 @@ def run_benchmark():
     
     # 1. Preprocessing
     print("\n[Step 1] Preprocessing Data")
-    subprocess.run(["python", "preprocess.py"])
+    subprocess.run(["python", "src/preprocess.py"])
     
     # 2. Fine-tuning and evaluating each model
     for model in MODELS:

@@ -26,4 +26,4 @@ def preprocess_data(input_path, output_path):
 if __name__ == "__main__":
     # We now operate on the synthetic cleaned_data we generated, but normally 
     # this would go from raw to clean. We'll just run it to show the pipeline works.
-    preprocess_data("../data/cleaned_data.csv", "../data/cleaned_data.csv")
+    preprocess_data("data/cleaned_data.csv", "data/cleaned_data.csv")
