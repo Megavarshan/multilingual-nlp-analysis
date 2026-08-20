@@ -1,4 +1,4 @@
-# Multilingual NLP Analysis
+# Cross-Lingual NLP Benchmarking: Sentiment and Toxicity Diagnostics in Indic Languages
 
 A comprehensive NLP pipeline designed to evaluate and benchmark state-of-the-art transformer models across 13 Indian languages. This project focuses on **sentiment analysis** and **toxicity detection**, addressing cultural nuances, colloquialisms, and low-resource language understanding.
 
